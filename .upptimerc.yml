@@ -15,8 +15,6 @@ status-website:
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  introTitle: "**Upptime**"
-  introMessage: ""
   navbar:
     - title: Status
       href: /
