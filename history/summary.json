@@ -10,16 +10,16 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 66,
-    "timeDay": 66,
-    "timeWeek": 66,
-    "timeMonth": 66,
-    "timeYear": 66,
+    "time": 62,
+    "timeDay": 62,
+    "timeWeek": 62,
+    "timeMonth": 62,
+    "timeYear": 62,
     "dailyMinutesDown": {}
   },
   {
     "name": "Plex",
-    "url": "$SECRET_IP",
+    "url": "$SECRET_IP:32400",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "plex",
     "status": "down",
@@ -34,7 +34,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-17": 17
+      "2025-10-17": 22
     }
   }
 ]
