@@ -10,7 +10,7 @@ sites:
   - name: Plex
     url: $SECRET_IP
     port: 32400
-    check: tcp-ping
+    check: "tcp-ping"
     type: globalping
     location: sweden
 
