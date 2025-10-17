@@ -11,8 +11,6 @@ sites:
     url: $SECRET_IP
     port: 32400
     check: "tcp-ping"
-  - name: Test
-    url: test.test.test
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
