@@ -1,7 +1,7 @@
 url: $SECRET_IP:32400
 status: down
-code: 400
+code: 0
 responseTime: 0
-lastUpdated: 2025-10-17T14:28:38.480Z
+lastUpdated: 2025-10-17T14:30:00.047Z
 startTime: 2025-10-17T14:07:01.648Z
 generator: Upptime <https://github.com/upptime/upptime>
