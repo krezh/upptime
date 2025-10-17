@@ -8,7 +8,7 @@ sites:
     type: globalping
     location: sweden
   - name: Plex
-    url: $SECRET_IP.test
+    url: $SECRET_IP
     port: 32400
     check: "tcp-ping"
 
