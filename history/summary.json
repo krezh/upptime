@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "plex",
     "status": "up",
-    "uptime": "26.64%",
-    "uptimeDay": "26.64%",
-    "uptimeWeek": "26.64%",
-    "uptimeMonth": "26.64%",
-    "uptimeYear": "26.64%",
+    "uptime": "47.80%",
+    "uptimeDay": "47.80%",
+    "uptimeWeek": "47.80%",
+    "uptimeMonth": "47.80%",
+    "uptimeYear": "47.80%",
     "time": 126,
     "timeDay": 126,
     "timeWeek": 126,
     "timeMonth": 126,
     "timeYear": 126,
     "dailyMinutesDown": {
-      "2025-10-17": 34
+      "2025-10-17": 24
     }
   }
 ]
