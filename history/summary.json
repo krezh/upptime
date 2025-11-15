@@ -4,20 +4,18 @@
     "url": "https://jellyfin.plexuz.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/jellyfin.plexuz.xyz.ico",
     "slug": "jellyfin",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 125,
-    "timeDay": 56,
-    "timeWeek": 120,
-    "timeMonth": 125,
-    "timeYear": 125,
-    "dailyMinutesDown": {
-      "2025-11-14": 7
-    }
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 123,
+    "timeDay": 68,
+    "timeWeek": 121,
+    "timeMonth": 123,
+    "timeYear": 123,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Plex",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
-    "time": 126,
-    "timeDay": 0,
-    "timeWeek": 123,
-    "timeMonth": 126,
-    "timeYear": 126,
+    "time": 127,
+    "timeDay": 162,
+    "timeWeek": 132,
+    "timeMonth": 127,
+    "timeYear": 127,
     "dailyMinutesDown": {
       "2025-10-17": 24
     }
