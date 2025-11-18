@@ -4,19 +4,19 @@
     "url": "https://jellyfin.plexuz.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/jellyfin.plexuz.xyz.ico",
     "slug": "jellyfin",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 119,
-    "timeDay": 70,
-    "timeWeek": 122,
-    "timeMonth": 141,
-    "timeYear": 119,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "98.93%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.97%",
+    "time": 118,
+    "timeDay": 73,
+    "timeWeek": 120,
+    "timeMonth": 139,
+    "timeYear": 118,
     "dailyMinutesDown": {
-      "2025-11-18": 0
+      "2025-11-18": 15
     }
   },
   {
