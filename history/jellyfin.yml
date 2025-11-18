@@ -1,7 +1,7 @@
 url: https://jellyfin.plexuz.xyz
-status: down
-code: 500
-responseTime: 21
-lastUpdated: 2025-11-18T13:15:02.865Z
+status: up
+code: 302
+responseTime: 146
+lastUpdated: 2025-11-18T14:39:15.699Z
 startTime: 2025-10-17T13:51:37.845Z
 generator: Upptime <https://github.com/upptime/upptime>
