@@ -4,7 +4,7 @@
     "url": "https://jellyfin.plexuz.xyz/health",
     "icon": "https://icons.duckduckgo.com/ip3/jellyfin.plexuz.xyz.ico",
     "slug": "jellyfin",
-    "status": "up",
+    "status": "down",
     "uptime": "99.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.46%",
