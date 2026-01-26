@@ -1,7 +1,7 @@
 url: https://jellyfin.plexuz.xyz/health
-status: up
-code: 200
-responseTime: 47
-lastUpdated: 2026-01-26T23:04:08.811Z
+status: down
+code: null
+responseTime: 0
+lastUpdated: 2026-01-26T23:35:07.790Z
 startTime: 2025-10-17T13:51:37.845Z
 generator: Upptime <https://github.com/upptime/upptime>
