@@ -4,7 +4,7 @@
     "url": "https://jellyfin.plexuz.xyz/health",
     "icon": "https://icons.duckduckgo.com/ip3/jellyfin.plexuz.xyz.ico",
     "slug": "jellyfin",
-    "status": "up",
+    "status": "down",
     "uptime": "99.47%",
     "uptimeDay": "97.74%",
     "uptimeWeek": "99.39%",
@@ -16,6 +16,7 @@
     "timeMonth": 91,
     "timeYear": 78,
     "dailyMinutesDown": {
+      "2026-01-29": 0,
       "2026-01-28": 32,
       "2026-01-27": 29,
       "2026-01-19": 43,
