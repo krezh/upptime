@@ -1,7 +1,7 @@
 url: $SECRET_IP
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-02-28T16:01:28.407Z
+status: up
+code: 200
+responseTime: 159
+lastUpdated: 2026-02-28T16:11:45.308Z
 startTime: 2025-10-17T14:07:01.648Z
 generator: Upptime <https://github.com/upptime/upptime>
